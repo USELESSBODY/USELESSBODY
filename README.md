@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=5000&center=true&vCenter=true&pause=1000&lines=Backend+Developer" />
+</p>
+
 Innovative IT and Web Developer with expertise in WordPress, Python, SQL, and C/C++. Proven track record
 of delivering high-quality websites and software solutions, with additional skills in electronics, robotics, and CNC
 machining. Strong communicator fluent in English, Romanian, and Persian, with international work experience.
