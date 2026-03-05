@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=5000&center=true&vCenter=true&pause=1000&lines=Backend+Developer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=5000&pause=1000&center=true&vCenter=true&color=FFFFFF&width=500&lines=Backend+Developer+%F0%9F%98%B4" />
 </p>
 
 Innovative IT and Web Developer with expertise in WordPress, Python, SQL, and C/C++. Proven track record
