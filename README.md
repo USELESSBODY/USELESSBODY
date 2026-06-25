@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to My Repository 👋</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=5000&pause=1000&center=true&vCenter=true&color=FFFFFF&width=500&lines=Backend+Developer+%F0%9F%98%B4" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=5000&pause=1000&center=true&vCenter=true&color=FFFFFF&width=500&lines=Backend+Developer+%E2%8C%A8%EF%B8%8F" />
 </p>
 
 ---
